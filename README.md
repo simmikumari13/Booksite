@@ -17,19 +17,19 @@ pdf of the books.
 
 The main aim of the project is to create a book site that allows user 
 to search and download the book pdf based on title, author, and 
-subject
+subject.
 
 # Technology Used
 
-HTML: Page layout has been designed in html.
+(1) HTML: Page layout has been designed in html.
 
-CSS: has been used for all the designing part.
+(2) CSS: has been used for all the designing part.
 
-JavaScript: All the validation task and animations has been developed 
-by JavaScript.
+(3) JavaScript: All the validation task and animations has been developed 
+    by JavaScript.
 
-Python: All the business logic has been implemented in python.
+(4) Python: All the business logic has been implemented in python.
 
-Django: Project has been developed over the Django framework.
+(5) Django: Project has been developed over the Django framework.
 
-SQL: SQL database has been used as database for the project.
+(6) SQL: SQL database has been used as database for the project.
