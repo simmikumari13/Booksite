@@ -22,9 +22,14 @@ subject
 # Technology Used
 
 HTML: Page layout has been designed in html.
+
 CSS: has been used for all the designing part.
+
 JavaScript: All the validation task and animations has been developed 
 by JavaScript.
+
 Python: All the business logic has been implemented in python.
+
 Django: Project has been developed over the Django framework.
+
 SQL: SQL database has been used as database for the project.
